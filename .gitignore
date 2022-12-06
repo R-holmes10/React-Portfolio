@@ -11,6 +11,9 @@
 # production
 /build
 
+/data/RV_CV.pdf
+
+
 # misc
 .DS_Store
 .env.local
