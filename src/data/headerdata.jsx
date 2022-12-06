@@ -1,4 +1,4 @@
-import resume from './RV_CV.pdf'
+import resume from '../assets/RV_CV.pdf'
 
 export const headerData = {
     
