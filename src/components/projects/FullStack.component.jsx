@@ -5,7 +5,9 @@ const FullStack = () => {
     <>
       <div className="gridlayout1">
         <div>
-          <img src={csoon} alt="Preview of HTML email from LinkedIn." />
+          <img 
+    
+          src={csoon} alt="Preview of HTML email from LinkedIn." />
         </div>
         <div>
           <h3>Project 4 </h3>
@@ -38,7 +40,9 @@ const FullStack = () => {
           </div>
         </div>
         <div>
-          <img src={csoon} alt="Preview of HTML email from Displate." />
+          <img 
+    
+          src={csoon} alt="Preview of HTML email from Displate." />
         </div>
       </div>
     </>

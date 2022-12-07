@@ -73,8 +73,12 @@ const Contact = () => {
                 placeholder="Please enter your message"
                 autoComplete="off"
               />
-              <button className="sendbutton" type="submit" value="Send">
-                &nbsp;&nbsp; Send &nbsp;&nbsp;
+              <button 
+            
+              className="sendbutton" 
+              style={{padding:"0.5rem 2rem",margin:"1rem",fontWeight:"bold"}}
+              type="submit" value="Send">
+                Send 
               </button>
             </form>
           </div>
@@ -93,7 +97,8 @@ const Contact = () => {
         <div style={{ padding: "2rem" }}>
           <div className="skillemblem">
             <a href="https://www.linkedin.com/in/ritu-verma-52a105228/">
-              <img src={linkedin} style={{ height: "2.2rem" }} alt=" " />
+              <img 
+              src={linkedin} style={{ height: "2.2rem" }} alt=" " />
             </a>
           </div>
         </div>

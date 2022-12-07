@@ -7,7 +7,9 @@ const FrontendAndBackend = () => {
     <>
       <div className="gridlayout1">
         <div>
-          <img src={cryptodash} alt="Visual Studio Code Inspired Portfolio" />
+          <img 
+          className="imgeffects"
+          src={cryptodash} alt="Visual Studio Code Inspired Portfolio" />
         </div>
         <div>
           <h3>Cryptocurrency Dashboard</h3>
@@ -79,6 +81,7 @@ const FrontendAndBackend = () => {
 
         <div>
           <img
+            className="imgeffects"
             src={bms}
             alt="Real time alternative communication for disabled gamers"
           />
@@ -87,6 +90,7 @@ const FrontendAndBackend = () => {
       <div className="gridlayout1">
         <div>
           <img
+            className="imgeffects"
             src={weather}
             alt="Language learning app powered by speech technologies"
           />

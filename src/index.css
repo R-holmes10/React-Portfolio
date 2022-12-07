@@ -477,7 +477,6 @@ border:2px solid white
   text-decoration: underline;
   color:black;
   border-color: black;
-  font-weight: bolder;
   cursor: pointer;
   
 }
@@ -487,6 +486,8 @@ border:2px solid white
   width: 2rem;
   height: auto;
 }
+
+
 
 
 .gridlayout1,
@@ -504,6 +505,23 @@ border:2px solid white
 .gridlayout3 > div > img {
   width: 90%;
 }
+
+
+.imgeffects {
+  transition: 2s ease;
+  }
+
+.imgeffects:hover{
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+}
+.sendbutton:hover{
+background-color: transparent;
+color:white
+}
+
 
 .gridlayout2 {
   display: grid;
