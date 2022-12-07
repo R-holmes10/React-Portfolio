@@ -27,8 +27,7 @@ const FrontendAndBackend = () => {
           <br />
 
           <div className="gridlayout2">
-            <a
-              href="https://cryptocurrdashboard.herokuapp.com/"
+            <a href="https://spark-cryptocurrency-dashboard.onrender.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
