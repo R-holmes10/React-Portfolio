@@ -95,31 +95,39 @@ const Contact = () => {
         }}
       >
         <div style={{ padding: "2rem" }}>
-          <div className="skillemblem">
+          <div 
+          className="logoeffects"
+          >
             <a href="https://www.linkedin.com/in/ritu-verma-52a105228/">
               <img 
-              src={linkedin} style={{ height: "2.2rem" }} alt=" " />
+              src={linkedin} style={{ height: "2.5rem"}} alt=" " />
             </a>
           </div>
         </div>
         <div style={{ padding: "2rem" }}>
-          <div className="skillemblem">
+          <div 
+          className="logoeffects"
+          >
             <a href="https://github.com/R-holmes10">
-              <img src={gith} style={{ height: "3.3rem" }} alt="" />
+              <img src={gith} style={{ paddingBottom:"10rem",height: "2.5rem" }} alt="" />
             </a>
           </div>
         </div>
         <div style={{ padding: "2rem" }}>
-          <div className="skillemblem">
+          <div 
+          className="logoeffects"
+          >
             <a href="https://www.facebook.com/ ">
-              <img src={fb} style={{ height: "2.5rem" }} alt=" " />
+              <img src={fb} style={{ height: "2.6rem" }} alt=" " />
             </a>
           </div>
         </div>
         <div style={{ padding: "2rem" }}>
-          <div className="skillemblem">
+          <div 
+          className="logoeffects"
+          >
             <a href="https://www.instagram.com/ ">
-              <img src={insta} style={{ height: "2.2rem" }} alt=" " />
+              <img src={insta} style={{ height: "2.5rem" }} alt=" " />
             </a>
           </div>
         </div>

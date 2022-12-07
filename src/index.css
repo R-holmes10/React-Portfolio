@@ -523,6 +523,33 @@ color:white
 }
 
 
+   .logoeffects{
+-webkit-filter: brightness(65%);
+-webkit-transition: all 0.2s ease;
+-moz-transition: all 0.2s ease;
+-o-transition: all 0.2s ease;
+-ms-transition: all 0.2s ease;
+transition: all 0.2s ease;
+  }
+
+  .logoeffects:hover{
+    -webkit-filter: brightness(100%);
+  } 
+
+  /* .logoeffects{
+    filter: grayscale(80%);
+-webkit-filter: grayscale(80%);
+-webkit-transition: all 0.2s ease;
+  }
+
+  .logoeffects:hover{
+    filter: grayscale(0%);
+filter: gray;
+-webkit-filter: grayscale(0%);
+filter: none;
+transition: 0.2s ease;
+  } */
+
 .gridlayout2 {
   display: grid;
   grid-template-columns: repeat(auto-fit, 8rem);
