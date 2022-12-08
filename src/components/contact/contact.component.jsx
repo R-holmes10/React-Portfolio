@@ -100,7 +100,7 @@ const Contact = () => {
           >
             <a href="https://www.linkedin.com/in/ritu-verma-52a105228/">
               <img 
-              src={linkedin} style={{ height: "2.5rem"}} alt=" " />
+              src={linkedin} style={{ height: "2.8rem"}} alt=" " />
             </a>
           </div>
         </div>
@@ -109,7 +109,7 @@ const Contact = () => {
           className="logoeffects"
           >
             <a href="https://github.com/R-holmes10">
-              <img src={gith} style={{ paddingBottom:"10rem",height: "2.5rem" }} alt="" />
+              <img src={gith} style={{ paddingBottom:"10rem",height: "2.8rem" }} alt="" />
             </a>
           </div>
         </div>
@@ -118,7 +118,7 @@ const Contact = () => {
           className="logoeffects"
           >
             <a href="https://www.facebook.com/ ">
-              <img src={fb} style={{ height: "2.6rem" }} alt=" " />
+              <img src={fb} style={{ height: "3rem" }} alt=" " />
             </a>
           </div>
         </div>
@@ -127,7 +127,7 @@ const Contact = () => {
           className="logoeffects"
           >
             <a href="https://www.instagram.com/ ">
-              <img src={insta} style={{ height: "2.5rem" }} alt=" " />
+              <img src={insta} style={{ height: "2.8rem" }} alt=" " />
             </a>
           </div>
         </div>
