@@ -9,7 +9,8 @@ const FrontendAndBackend = () => {
         <div>
           <img 
           className="imgeffects"
-          src={cryptodash} alt="Visual Studio Code Inspired Portfolio" />
+          src={cryptodash} 
+          alt="Visual Studio Code Inspired Portfolio" />
         </div>
         <div>
           <h3>Cryptocurrency Dashboard</h3>
