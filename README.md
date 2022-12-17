@@ -42,7 +42,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   
   <h2>Portfolio</h2>
   <a href ="#"/>  Live Here
-  <!-- https://myy-portfolio.onrender.com/ -->
+  https://myy-portfolio.onrender.com/
 
   </a>
  <br>
