@@ -38,11 +38,11 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-  
-  
   <h2>Portfolio</h2>
-  Live Here  [https://myy-portfolio.onrender.com/](https:/myy-portfolio.onrender.com/)
-
+  <a href="https://myy-portfolio.onrender.com/">
+    Live Here
+  </a>
+  
  <br>
  </br>
 
