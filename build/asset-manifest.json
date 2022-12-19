@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.de68d7f3.css",
-    "main.js": "/static/js/main.dcd644ac.js",
+    "main.js": "/static/js/main.b5182020.js",
     "static/media/RV_CV.pdf": "/static/media/RV_CV.fd264d850ba2d605a97a.pdf",
     "static/media/bms.jpeg": "/static/media/bms.e5f0d8f1ed6f51e021c1.jpeg",
     "static/media/cryptodash.jpeg": "/static/media/cryptodash.cc806b428e58b266a18f.jpeg",
-    "static/media/weather.jpg": "/static/media/weather.fef0fc6ecdf17093b225.jpg",
+    "static/media/TodoApp.jpeg": "/static/media/TodoApp.42d2f163771803b634b9.jpeg",
     "static/media/gith.png": "/static/media/gith.553c66159c5672f25df6.png",
     "static/media/csoon.jpg": "/static/media/csoon.734338c7393d80a57104.jpg",
     "static/media/insta.png": "/static/media/insta.661a8d22097791cf8c6d.png",
@@ -24,10 +24,10 @@
     "static/media/html.svg": "/static/media/html.991ef15130155c013083e420b96435ca.svg",
     "static/media/css.svg": "/static/media/css.0207f2a44ea690da6ed6f330b35ebd5c.svg",
     "main.de68d7f3.css.map": "/static/css/main.de68d7f3.css.map",
-    "main.dcd644ac.js.map": "/static/js/main.dcd644ac.js.map"
+    "main.b5182020.js.map": "/static/js/main.b5182020.js.map"
   },
   "entrypoints": [
     "static/css/main.de68d7f3.css",
-    "static/js/main.dcd644ac.js"
+    "static/js/main.b5182020.js"
   ]
 }

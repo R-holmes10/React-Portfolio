@@ -1,5 +1,5 @@
 import cryptodash from "../../assets/cryptodash.jpeg";
-import weather from "../../assets/weather.jpg";
+import TodoApp from "../../assets/TodoApp.jpeg";
 import bms from "../../assets/bms.jpeg";
 
 const FrontendAndBackend = () => {
@@ -92,7 +92,7 @@ const FrontendAndBackend = () => {
         <div>
           <img
             className="imgeffects"
-            src={weather}
+            src={TodoApp}
             alt="Language learning app powered by speech technologies"
           />
         </div>
