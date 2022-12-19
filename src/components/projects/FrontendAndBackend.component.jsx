@@ -97,13 +97,12 @@ const FrontendAndBackend = () => {
           />
         </div>
         <div>
-          <h3>Weather-Tracker</h3>
+          <h3>Todo App</h3>
           <p>
-            Weather-Tracker is designed to provide users the daily weather
-            report on temperature, precipitation, etc. After choosing any city
-            from the dropd own available, one can get the weather data for six
-            days , including current day and five future predictions as per
-            OpenWeather API data.
+            This is a simple Todos keeper where users can add tasks.
+            Once added, there's also an option to edit the task and update it.
+            Upon task completion, there's an option to strike off the task or to
+            un-strike if not done. Then, at last, the task can be deleted when finally done.
           </p>
           <h4>
             Tech-Stack : &nbsp; <i>Javascript, HTML, CSS</i>{" "}
@@ -111,13 +110,13 @@ const FrontendAndBackend = () => {
           <br />
           <div className="gridlayout2">
             <a
-              href="https://weather-tracker01.herokuapp.com/"
+              href="https://todoapp-react-1xo9.onrender.com"
               rel="noopener noreferrer"
             >
               &lt; Live Site /&gt;
             </a>
             <a
-              href="https://github.com/R-holmes10/weather-tracker"
+              href="https://github.com/R-holmes10/TodoList.git"
               target="_blank"
               rel="noopener noreferrer"
             >
