@@ -50,17 +50,39 @@ const Projects = () => {
         <div>
           <div></div>
           <h3>
-            <b>➢ </b>Front-End Web Development with React
+            <b>➢ </b>React Basics
           </h3>
           <p>
-            An online course authorised by The Hong University and offered
+            An online course authorised by Meta and offered
             through Coursera.<br></br>
             "Familiarised with client-side Javascript application development
             and the React library. I can implement single page functional
             front-end application using React."
           </p>
           <a
-            href="https://www.coursera.org/account/accomplishments/certificate/G5P5BSZ48P2P"
+            href="https://www.coursera.org/account/accomplishments/certificate/JLUCSPZ83KD4"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <button className="skillbutton">Verify Credentials</button>
+          </a>
+        </div>
+        <div>
+        <div></div>
+          <h3>
+            <b>➢ </b>Advanced React
+          </h3>
+          <p>
+            An online course authorised by Meta and offered
+            through Coursera.<br></br>
+            "Learnt to use more advanced React concepts and features,
+             optimize and debug React applications, and become 
+             proficient in creating a web application that consumes API data, 
+             and familiarized with the most commonly used React framework 
+             integrations, tools, and debugging approaches."
+          </p>
+          <a
+            href="https://www.coursera.org/account/accomplishments/certificate/PQQGYSCDRCY2"
             target="_blank"
             rel="noopener noreferrer"
           >
